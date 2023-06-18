@@ -1,13 +1,11 @@
 ---
 external: false
-title: "Basic markdown style guide"
-description: "You can author content using the familiar markdown syntax you already know. All basic markdown syntax is supported."
-date: 2022-11-02
+title: "Test, Test, is this working?"
+description: "First time creating a blog."
+date: 2023-06-18
 ---
 
-Markdown is powered by [Markdoc](https://markdoc.dev/). This is an example post to demonstrate all the basic markdown syntax. You can author content using the familiar markdown syntax you already know.
-
-## Inline formatting
+Testing out the new blog...
 
 Bold: **This text is bold**.
 
@@ -31,13 +29,6 @@ The following HTML `<h2>`—`<h6>` elements represent five levels of section hea
 
 ###### H6: Heading Six
 
-## Paragraph
-
-A standalone single paragraph of text.
-
-Paragraphs can be multiline too when they constitute words that make up more than one line, i.e they wrap to the next line. Wow! I am really smart to write two lines of text that makes zero sense.
-
-## Blockquotes
 
 > This is a blockquote. And it's pretty long too. Long enough to wrap to next line. Surely it will wrap.
 
