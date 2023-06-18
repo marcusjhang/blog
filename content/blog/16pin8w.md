@@ -22,4 +22,16 @@ It's pretty self-explanatory, but the plan is to create 16 websites/components w
 - Increased proficiency in Frontend Frameworks, notably ReactJS, Bootstrap and SASS. 
 - Exposure to miscellaneous things like Software Testing and Authentication. Things I will unlikely use until I start to work.
 
+As a little promise to myself, I'll pen down my ideal day for the next 8 weeks. For memory's sake.
+
+- 0500 - 0600: Brush Up
+- 0600 - 1200: Work
+- 1200 - 1230: Lunch
+- 1230 - 1700: Work
+- 1700 - 1800: Dinner
+- 1800 - 2100: Work
+- 2100 - 2200: Chill
+
+More or less an impossble schedule to follow, but aim for the stars and you'll land on something tall i suppose.
+
 Unsure what will happen, but I'm sure I'll be learning alot.
