@@ -35,3 +35,4 @@ A little bit of a reading archive, will be updated. Moved on from Self-Help, cur
 | Principles | 8.5 |
 | The Singapore Story | 8.5 |
 | After Steve | 7 |
+| The 80/20 Rule | 6.5 |
