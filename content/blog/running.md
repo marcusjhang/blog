@@ -6,8 +6,6 @@ date: 2023-06-19
 ---
 **Disclaimer: I am not a professional. I ended my first marathon with a time of 4:25:14. That's slower than the time taken for the average male (4:21:03).**
 
-There are some who can literally get off a couch and run a marathon, to those people, I salute you. If you arent one of those people, feel free to read.
-
 First of all, I'll lay down some "rules" you should think about before signing up for a marathon.
 1. You should only run a marathon if you feel compelled to.
 2. You should only run a marathon if you have the time to prepare for one.
