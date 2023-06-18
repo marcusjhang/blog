@@ -1,6 +1,6 @@
 ---
-title: Project: This Blog
-description: First Project of the 16 Projects in 8 Weeks
+title: 01. This Blog
+description: Project 1/16
 date: 2023-06-18
 url: https://marcus-ang.com
 ---
