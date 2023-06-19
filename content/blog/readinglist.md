@@ -6,7 +6,7 @@ date: 2023-06-19
 ---
 A little bit of a reading archive, will be updated. Moved on from Self-Help, currently on Biographies.
 
-**First Book**: 15 July 2002
+**First Book**: 15 July 2022
 
 **Currently Reading**: Titan: The Life of John D. Rockerfeller by Ron Chernow
 
