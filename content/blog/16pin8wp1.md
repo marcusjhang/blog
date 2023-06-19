@@ -5,13 +5,13 @@ description: First update
 date: 2023-07-05
 ---
 ## Projects Completed
+- Blog (Frontend)
 - Wiki (Backend)
 - Commerce (Fullstack)
 - Mail (Frontend)
-- Network (Fullstack)
 
 ## Time taken
-- **16** days.
+- **12** days.
 
 ## Tech Stack
 - **ReactJS**
@@ -20,4 +20,5 @@ date: 2023-07-05
 - **Python**
 - **Django** 
 - **SQLiteDB**
+- **Astro**
 
