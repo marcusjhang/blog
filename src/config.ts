@@ -3,7 +3,7 @@
 
 export const SITE_TITLE = "Marcus Ang";
 export const SITE_DESCRIPTION =
-  "My Blog.";
+  "My Blog";
 export const TWITTER_HANDLE = "@marcusangjh";
 export const MY_NAME = "Marcus Ang";
 
