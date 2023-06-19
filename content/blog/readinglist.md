@@ -8,7 +8,6 @@ A little bit of a reading archive, will be updated. Moved on from Self-Help, cur
 
 **First Book**: 15 July 2022
 
-**Currently Reading**: Titan: The Life of John D. Rockerfeller by Ron Chernow
 
 | Book      | /10   |
 | --------- | -------- | 

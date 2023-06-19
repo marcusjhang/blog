@@ -49,8 +49,8 @@ It's a beautiful world out there.
 ## Projects Completed
 - Weather (Fullstack)
 - Battleship (Fullstack)
+- Memrory Card (Frontend)
 - Where's Waldo (Fullstack)
-- Message Board (Frontend)
 
 ## Time taken
 - **12** days.
@@ -66,10 +66,10 @@ It's a beautiful world out there.
 
 4/4
 ## Projects Completed
+- Message Board (Fullstack)
 - Inventory (Fullstack)
-- Member's Only (Fullstack)
+- Members Only (Fullstack)
 - Blog (Fullstack)
-- Facebook Clone (Fullstack)
 
 ## Time taken
 - **12** days.
