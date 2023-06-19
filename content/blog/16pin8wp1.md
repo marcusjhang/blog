@@ -4,8 +4,6 @@ title: 16 in 8 Pt. 1
 description: First update
 date: 2023-07-05
 ---
-### 1/4
-
 ## Projects Completed
 - Wiki (Backend)
 - Commerce (Fullstack)
@@ -22,3 +20,4 @@ date: 2023-07-05
 - **Python**
 - **Django** 
 - **SQLiteDB**
+
