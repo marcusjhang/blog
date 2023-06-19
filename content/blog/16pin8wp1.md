@@ -13,12 +13,12 @@ date: 2023-07-05
 - Network (Fullstack)
 
 ## Time taken
-- 16 days.
+- **16** days.
 
 ## Tech Stack
-- ReactJS
-- Bootstrap
-- Tailwind
-- Python
-- Django 
-- SQLiteDB
+- **ReactJS**
+- **Bootstrap**
+- **Tailwind**
+- **Python**
+- **Django** 
+- **SQLiteDB**
