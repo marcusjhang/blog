@@ -22,9 +22,11 @@ It's a beautiful world out there.
 - **ReactJS**
 - **Bootstrap**
 - **Tailwind**
+- **HTML**
 - **Python**
 - **Django** 
-- **SQLiteDB**
+- **SQLite**
+- **Selenium**
 - **Astro**
 
 2/4
@@ -47,10 +49,10 @@ It's a beautiful world out there.
 
 3/4
 ## Projects Completed
-- Weather (Fullstack)
-- Battleship (Fullstack)
+- Weather (Frtonend)
+- Battleship (Frontend)
 - Memrory Card (Frontend)
-- Where's Waldo (Fullstack)
+- Where's Waldo? (Fullstack)
 
 ## Time taken
 - **12** days.
@@ -58,10 +60,8 @@ It's a beautiful world out there.
 ## Tech Stack
 - **ReactJS**
 - **Tailwind**
-- **NodeJS**
-- **MongoDB** 
-- **Express**
 - **Mongoose**
+- **Firebase**
 - **Jest**
 
 4/4
@@ -81,4 +81,5 @@ It's a beautiful world out there.
 - **MongoDB** 
 - **Express**
 - **Mongoose**
+- **passportJS**
 
