@@ -36,3 +36,5 @@ As a little promise to myself, I'll pen down my ideal day for the next 8 weeks. 
 More or less an impossble schedule to follow, but aim for the stars and you'll land on something tall i suppose.
 
 Unsure what will happen, but I'm sure I'll be learning alot.
+
+edit: Decided to pick up abit of Machine Learning as well. We'll see how that goes.
