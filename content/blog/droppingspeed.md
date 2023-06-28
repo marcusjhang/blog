@@ -1,6 +1,6 @@
 ---
 external: false
-title: "Dropping Speed"
+title: "Dropping speed"
 description: "Dropping speed"
 date: 2023-06-27
 ---

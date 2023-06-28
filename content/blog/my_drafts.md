@@ -14,66 +14,43 @@ It's a beautiful world out there.
 - Wiki (Backend)
 - Commerce (Fullstack)
 - Degrees (ML)
-
-## Time taken
-- **20** days.
-
-## Tech Stack
-- **ReactJS**
-- **Bootstrap**
-- **HTML**
-- **Python**
-- **Django** 
-- **SQLite**
-- **Astro**
-
-2/4
-## Projects Completed
 - Minesweeper (ML)
 - Heredity (ML)
 - Crossroad (ML)
 - Shopping (ML)
-
-## Time taken
-- **12** days.
-
-## Tech Stack
-- **Python**
-
-3/4
-## Projects Completed
 - Traffic (ML)
 - Questions (ML)
 - Weather (Frontend)
 - Where's Waldo? (Fullstack)
-
-## Time taken
-- **12** days.
-
-## Tech Stack
-- **Python**
-- **TensorFlow**
-- **ReactJS**
-- **Tailwind**
-- **Mongoose**
-- **Firebase**
-
-4/4
-## Projects Completed
 - Message Board (Fullstack)
 - Inventory (Fullstack)
 - Members Only (Fullstack)
 - Mail (Frontend)
 
-## Time taken
-- **12** days.
 
 ## Tech Stack
+### Frontend 
 - **ReactJS**
+- **Javascript**
+- **HTML**
+- **CSS**
+- **Bootstrap**
 - **Tailwind**
+
+### Backend 
+- **Python**
+- **Django** 
 - **NodeJS**
+- **Mongoose**
 - **MongoDB** 
 - **Express**
-- **Mongoose**
+- **Firebase**
+- **SQLite**
+
+### Others
+- **Astro**
 - **passportJS**
+- **Git**
+- **TensorFlow**
+- **Natural Language Processing**
 
