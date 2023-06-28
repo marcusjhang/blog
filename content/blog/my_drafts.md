@@ -53,4 +53,6 @@ It's a beautiful world out there.
 - **Git**
 - **TensorFlow**
 - **Natural Language Processing**
+- **Computer Vision**
+- **scikit-learn**
 
