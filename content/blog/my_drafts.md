@@ -8,7 +8,6 @@ date: 2022-11-22
 
 It's a beautiful world out there.
 
-1/4
 ## Projects Completed
 - This Blog (Frontend)
 - Wiki (Backend)
