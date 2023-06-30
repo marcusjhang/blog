@@ -25,7 +25,7 @@ It's pretty self-explanatory, but the plan is to create 16 websites/components w
 ### Schedule
 As a little promise to myself, I'll pen down my ideal day for the next 8 weeks. For memory's sake.
 
-- 0500 - 0600: Brush Up
+- 0500 - 0600: Wake Up
 - 0600 - 1200: Work
 - 1200 - 1230: Lunch
 - 1230 - 1700: Work
