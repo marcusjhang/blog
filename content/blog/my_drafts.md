@@ -10,21 +10,21 @@ It's a beautiful world out there.
 
 ## Projects Completed
 - This Blog (Frontend)
+- Tech Portfolio (Frontend)
 - Wiki (Backend)
 - Commerce (Fullstack)
-- Degrees (ML)
-- Minesweeper (ML)
-- Heredity (ML)
-- Crossroad (ML)
-- Shopping (ML)
-- Traffic (ML)
-- Questions (ML)
-- Weather (Frontend)
-- Where's Waldo? (Fullstack)
+- Library (Frontend)
+- ToDo (Frontend)
+- Weather (Fullstack)
+- Battleship (Fullstack)
+- Resume Builder (Frontend)
+- Memory Cards (Frontend)
+- Shopping Cart (Frontend)
+- Where's Waldo (Frontend)
 - Message Board (Fullstack)
 - Inventory (Fullstack)
-- Members Only (Fullstack)
 - Mail (Frontend)
+- Network (Fullstack)
 
 
 ## Tech Stack
@@ -48,10 +48,5 @@ It's a beautiful world out there.
 
 ### Others
 - **Astro**
-- **passportJS**
 - **Git**
-- **TensorFlow**
-- **Natural Language Processing**
-- **Computer Vision**
-- **scikit-learn**
 
