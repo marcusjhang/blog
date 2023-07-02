@@ -10,7 +10,7 @@ It's a beautiful world out there.
 
 ## Projects Completed
 - This Blog (Frontend)
-- Tech Portfolio (Frontend)
+- Portfolio (Frontend)
 - Wiki (Backend)
 - Commerce (Fullstack)
 - Library (Frontend)
