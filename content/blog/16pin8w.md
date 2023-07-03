@@ -20,7 +20,6 @@ It's pretty self-explanatory, but the plan is to create 16 websites/components w
 ### What I hope will happen:
 - Increased proficiency in Backend Frameworks, which currently just look like buzzwords. This is the highest priority.
 - Increased proficiency in Frontend Frameworks, notably ReactJS, Bootstrap and SASS. 
-- Exposure to miscellaneous things like Software Testing and Authentication. Things I will unlikely use until I start to work.
 
 ### Schedule
 As a little promise to myself, I'll pen down my ideal day for the next 8 weeks. For memory's sake.
