@@ -9,7 +9,7 @@ date: 2022-11-22
 It's a beautiful world out there.
 
 ## Projects Completed
-- This Blog (Frontend)
+- This Blog 
 - Portfolio (Frontend)
 - Wiki (Backend)
 - Commerce (Backend)
