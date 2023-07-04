@@ -12,7 +12,7 @@ It's a beautiful world out there.
 - This Blog (Frontend)
 - Portfolio (Frontend)
 - Wiki (Backend)
-- Commerce (Fullstack)
+- Commerce (Backend)
 - Library (Frontend)
 - ToDo (Frontend)
 - Weather (Fullstack)
