@@ -11,6 +11,8 @@ It's a beautiful world out there.
 ## Projects Completed
 - This Blog 
 - Portfolio (Frontend)
+- Advice Generator (Frontend)
+- IP Address Tracker (Frontend)
 - Wiki (Backend)
 - Commerce (Backend)
 - Library (Frontend)
@@ -22,9 +24,7 @@ It's a beautiful world out there.
 - Shopping Cart (Frontend)
 - Where's Waldo (Frontend)
 - Message Board (Fullstack)
-- Inventory (Fullstack)
 - Mail (Frontend)
-- Network (Fullstack)
 
 
 ## Tech Stack
