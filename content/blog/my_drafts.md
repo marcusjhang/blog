@@ -12,7 +12,7 @@ It's a beautiful world out there.
 - This Blog 
 - Portfolio (Frontend)
 - Advice Generator (Frontend)
-- IP Address Tracker (Frontend)
+- IP Locator (Frontend)
 - Wiki (Backend)
 - Commerce (Backend)
 - Library (Frontend)
