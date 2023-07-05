@@ -34,10 +34,6 @@ It's a beautiful world out there.
 ### Backend 
 - **Python**
 - **Django** 
-- **NodeJS**
-- **Mongoose**
-- **MongoDB** 
-- **Express**
 - **Firebase**
 - **SQLite**
 
