@@ -1,11 +1,11 @@
 ---
 external: false
-title: "12 Projects in 8 Weeks"
+title: "12 Projects in 6 Weeks"
 description: "First challenge"
 date: 2023-06-18
 ---
 
-I have exactly 8 weeks till the start of school.
+I have 6 weeks till the start of school.
 
 Thought I would spend it learning and practising something new. Full Stack Web Development seemed like a good next step.
 
