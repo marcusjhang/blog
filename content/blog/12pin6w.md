@@ -11,7 +11,7 @@ Thought I would spend it learning and practising something new. Full Stack Web D
 
 ### What I plan to do:
 
-It's pretty self-explanatory, but the plan is to create 12 websites/components within the next 8 weeks. They'll mostly be project ideas stolen from OpenCourseWare (eg TheOdinProject, FreeCodeCamp). I was slightly hesitant about this at first, but I realised ability must come before creativity.
+It's pretty self-explanatory, but the plan is to create 12 websites/components within the next 6 weeks. They'll mostly be project ideas stolen from OpenCourseWare (eg TheOdinProject, FreeCodeCamp). I was slightly hesitant about this at first, but I realised ability must come before creativity.
 
 ### My current state:
 - Intermediate proficiency in Javascript, HTML, and CSS.
