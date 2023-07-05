@@ -16,16 +16,11 @@ It's a beautiful world out there.
 - Wiki (Backend)
 - Commerce (Backend)
 - Library (Frontend)
-- ToDo (Frontend)
-- Weather (Fullstack)
-- Battleship (Fullstack)
+- Mail (Frontend)
+- Network (Fullstack)
 - Resume Builder (Frontend)
-- Memory Cards (Frontend)
-- Shopping Cart (Frontend)
 - Where's Waldo (Frontend)
 - Message Board (Fullstack)
-- Mail (Frontend)
-
 
 ## Tech Stack
 ### Frontend 
