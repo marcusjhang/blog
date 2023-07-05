@@ -13,14 +13,14 @@ It's a beautiful world out there.
 - Portfolio (Frontend)
 - Advice Generator (Frontend)
 - IP Locator (Frontend)
-- Wiki (Backend)
-- Commerce (Backend)
 - Library (Frontend)
 - Mail (Frontend)
-- Network (Fullstack)
+- Memory Card (Frontend)
 - Resume Builder (Frontend)
 - Where's Waldo (Frontend)
-- Message Board (Fullstack)
+- Wiki (Backend)
+- Commerce (Backend)
+- Network (Fullstack)
 
 ## Tech Stack
 ### Frontend 
