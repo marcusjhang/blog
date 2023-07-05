@@ -1,6 +1,6 @@
 ---
 title: Library
-description: Project 5/12
+description: Library
 date: 2023-07-04
 url: https://github.com/marcusjhang/library
 ---

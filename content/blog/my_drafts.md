@@ -15,9 +15,6 @@ It's a beautiful world out there.
 - IP Locator (Frontend)
 - Library (Frontend)
 - Mail (Frontend)
-- Memory Card (Frontend)
-- Resume Builder (Frontend)
-- Where's Waldo (Frontend)
 - Wiki (Backend)
 - Commerce (Backend)
 - Network (Fullstack)
@@ -34,11 +31,9 @@ It's a beautiful world out there.
 ### Backend 
 - **Python**
 - **Django** 
-- **Firebase**
 - **SQLite**
 
 ### Others
 - **Astro**
 - **Git**
-- **Selenium**
 
