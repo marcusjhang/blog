@@ -44,4 +44,5 @@ It's a beautiful world out there.
 ### Others
 - **Astro**
 - **Git**
+- **Selenium**
 
