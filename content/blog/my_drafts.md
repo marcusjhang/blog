@@ -14,10 +14,11 @@ It's a beautiful world out there.
 - Advice Generator (Frontend)
 - IP Locator (Frontend)
 - Library (Frontend)
-- Mail (Frontend)
-- Wiki (Backend)
-- Commerce (Backend)
-- Network (Fullstack)
+- URL Shortener (Frontend)
+- Github User Search (Frontend)
+- Wiki (Fullstack)
+- Commerce (Fullstack)
+
 
 ## Tech Stack
 ### Frontend 
