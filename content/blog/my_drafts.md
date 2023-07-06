@@ -20,21 +20,4 @@ It's a beautiful world out there.
 - Commerce (Fullstack)
 
 
-## Tech Stack
-### Frontend 
-- **ReactJS**
-- **Javascript**
-- **HTML**
-- **CSS**
-- **Bootstrap**
-- **Tailwind**
-
-### Backend 
-- **Python**
-- **Django** 
-- **SQLite**
-
-### Others
-- **Astro**
-- **Git**
 
