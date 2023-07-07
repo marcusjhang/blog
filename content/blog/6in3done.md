@@ -14,7 +14,7 @@ Just completed the final website...
 05. [Wiki](https://github.com/marcusjhang/wiki) (Fullstack)
 06. [Commerce](https://github.com/marcusjhang/pokecommerce) (Fullstack)
 
-I'll be honest, it was fun. Got to play around with both frontend and backend development frameworks. Alot of breadth over depth, probably due to the time factor, but who's to say thats a bad thing. Looking forward to go deeper into frontend when I have the chance to.
+I'll be honest, it was fun. Got to explore different frameworks on both the frontend and backend. Looking forward to go deeper into frontend when I have the chance to.
 
 ## Laguages + Frameworks (Learnt and used)
 - Javascript
@@ -31,4 +31,4 @@ I'll be honest, it was fun. Got to play around with both frontend and backend de
 
 Overall, happy I decided to try this out.
 
-On to the next, let's see what happens from here. 
+Let's see what happens from here. 
