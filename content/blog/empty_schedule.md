@@ -21,11 +21,11 @@ Looks like it's settled. Leetcode in Java, and more Front End Mentor.
 Again, I'll put this here as a goal for myself to look towards.
 
 - 0500 - 0600: Wake Up
-- 0600 - 1200: Work
+- 0600 - 1200: Leetcode
 - 1200 - 1230: Lunch
-- 1230 - 1700: Work
+- 1230 - 1700: Front End Mentor
 - 1700 - 1800: Dinner
-- 1800 - 2100: Work
+- 1800 - 2100: Front End Mentor / Prepare for School
 - 2100 - 2200: Chill
 
 Let's see how this goes.
