@@ -17,6 +17,7 @@ Not sure honestly. Thinking of working on my java and more front end development
 Looks like it's settled. Leetcode in Java, and more Front End Mentor.
 
 **Schedule**
+
 Again, I'll put this here as a goal for myself to look towards.
 
 - 0500 - 0600: Wake Up
