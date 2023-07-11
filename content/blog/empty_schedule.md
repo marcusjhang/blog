@@ -4,7 +4,7 @@ title: "Empty schedule"
 description: "Empty schedule"
 date: 2023-07-11
 ---
-Procrastinated writing this for a few days. I'm back.
+Procrastinated writing this for a few days.
 
 I kept most of my schedule empty so that I could work on shit I felt was important. But now I find myself constantly looking forward to the next activity. Most of my time alone is not spent well. Not optimal.
 
