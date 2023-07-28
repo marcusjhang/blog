@@ -4,14 +4,13 @@ title: "Reading List"
 description: "Reading list"
 date: 2023-06-19
 ---
-A little bit of a reading archive, will be updated. Moved on from Self-Help, currently on Biographies.
+A little bit of a reading archive, will be updated. 
 
 **First Book**: 15 July 2022
 
 
 | Book      | /10   |
 | --------- | -------- | 
-| When Breath Becomes Air | 8 | 
 | The Richest Man in Babylon | 8 | 
 | Sam Walton: Made in America | 8.5 | 
 | The Courage to be Disliked | 7.5 |
@@ -34,4 +33,3 @@ A little bit of a reading archive, will be updated. Moved on from Self-Help, cur
 | Principles | 8.5 |
 | The Singapore Story | 8.5 |
 | After Steve | 7 |
-| The 80/20 Rule | 6.5 |
