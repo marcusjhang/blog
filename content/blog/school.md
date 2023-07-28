@@ -9,7 +9,7 @@ School's starting soon.
 ### School and Blogging
 Was thinking about whether I should be one of those guys who blogs on a weekly basis, just as a form of a sanity check.
 
-I think a bigger importance should be placed on what I post here. I initially intended for this site to be a place to talk about my technical and programming progress but now I'm slightly more open to talking about other things that concern my 'personal life'. I guess the comfort came after getting slightly more adapted the computer, which I did not have much experience with a year ago. I was essentially a technology dino at that point. 
+I think a bigger importance should be placed on what I post here. I initially intended for this site to be a place to talk about my technical and programming progress but now I'm slightly more open to talking about other things that concern my 'personal life'. I guess the comfort came after getting slightly more adapted to the computer, which I did not have much experience with a year ago. I was essentially a technology dino at that point. 
 
 
 ### Total Recall 
