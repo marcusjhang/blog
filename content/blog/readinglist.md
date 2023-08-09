@@ -6,6 +6,8 @@ date: 2023-06-19
 ---
 A little bit of a reading archive, will be updated. 
 
+Mainly Self-help, Biographies, and Financial Education so far. Many more genres to explore.
+
 **First Book**: 15 July 2022
 
 
@@ -33,3 +35,4 @@ A little bit of a reading archive, will be updated.
 | Principles | 8.5 |
 | The Singapore Story | 8.5 |
 | After Steve | 7 |
+| Total Recall | 9.5 |

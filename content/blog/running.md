@@ -6,12 +6,7 @@ date: 2023-06-19
 ---
 **Disclaimer: I am not a professional. I ended my first marathon with a time of 4:25:14. That's slower than the time taken for the average male (4:21:03).**
 
-First of all, I'll lay down some "rules" you should think about before signing up for a marathon.
-1. You should only run a marathon if you feel compelled to.
-2. You should only run a marathon if you have the time to prepare for one.
-3. You do not need any crazy running background. If you've ran rounds around the block, you'll be fine.
-
-With that, I'll begin with how I went from couch to marathon in 20 weeks.
+I went from couch to marathon in 20 weeks. Not an impressive feat, but I wanted to immortalise it by writing about it. These were some of the "notes" I wrote for my future self to read in the event I wanted to train for another marathon.
 
 ## Marathon Training
 There is one training method that has ruled over all other methods in recent years: The Maffetone Method. 
