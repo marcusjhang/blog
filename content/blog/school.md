@@ -1,5 +1,6 @@
 ---
 external: false
+draft: true
 title: "School?"
 description: "School?"
 date: 2023-07-28
