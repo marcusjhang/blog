@@ -32,3 +32,5 @@ Balancing detail with brevity in documentation has been challenging. I plan to:
 - **Organize Logically**: Structure information for easy navigation.
 - **Use Simple Language**: Avoid jargon to make content accessible.
 - **Update Regularly**: Keep documentation current as links evolve.
+
+**Previous**: [Documentation](../communication2)

@@ -37,11 +37,11 @@ def calculate_area(radius):
     return math.pi * radius ** 2
 ```
 
-**Pro-tip**: Use interactive environments like repl.it or collab to give invaluable hands-on. [Try it](https://colab.research.google.com/drive/1wgW30gis0jeYrtW5X6h3XnIGE1J68cS8?usp=sharing)!
+**Pro-tip**: Use interactive environments like repl.it or collab to give invaluable hands-on. [**Try the code above in Google Collab**](https://colab.research.google.com/drive/1wgW30gis0jeYrtW5X6h3XnIGE1J68cS8?usp=sharing)!
 
 ## 2. User Documentation
 
-{% youtube url="https://www.youtube.com/watch?v=bYxbwsGG3Zo" label="What is User Documentation" /%}
+{% youtube url="https://www.youtube.com/embed/bYxbwsGG3Zo?si=P68kZ7BpWmrz1dt-" label="What is User Documentation" /%}
 
 ### Key Components of User Documentation
 
@@ -69,4 +69,4 @@ Descriptions of primary features and how to use them.
 Information on reaching customer support.
 ```
 
-Next: [My Reflections](../communication3)
+**Previous**: [Introduction](../communication1) | **Next**: [My Reflections](../communication3)
