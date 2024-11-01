@@ -73,4 +73,4 @@ Descriptions of primary features and how to use them.
 Information on reaching customer support.
 ```
 
-Next: [My Reflections](./communication3)
+Next: [My Reflections](../communication3)

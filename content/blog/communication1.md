@@ -16,5 +16,5 @@ Why care about Communication?
 
 This blog focuses on **Documentation** as a critical communication tool for soon-to-be Software Engineers.
 
-[Let’s Begin.](./communication2)
+[Let’s Begin.](../communication2)
 
