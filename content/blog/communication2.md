@@ -7,9 +7,6 @@ date: 2024-11-01
 # Part 2: Communication in Software Engineering (Documentation)
 
 ## 1. Code Documentation
-- **Improves Readability**: Helps others quickly grasp each function, class, or module.
-- **Enhances Collaboration**: Reduces the need for constant clarification.
-- **Supports Maintenance**: Eases troubleshooting and updates.
 
 ### Key Elements of Good Code Documentation
 
@@ -40,12 +37,11 @@ def calculate_area(radius):
     return math.pi * radius ** 2
 ```
 
+**Pro-tip**: Use interactive environments like repl.it or collab to give invaluable hands-on. [Try it](https://colab.research.google.com/drive/1wgW30gis0jeYrtW5X6h3XnIGE1J68cS8?usp=sharing)!
 
 ## 2. User Documentation
 
-- **Guides Users**: Helps users understand and navigate the software.
-- **Reduces Support Requests**: Clear instructions prevent common issues.
-- **Enhances User Experience**: Empowers users to resolve issues independently.
+{% youtube url="https://www.youtube.com/watch?v=bYxbwsGG3Zo" label="What is User Documentation" /%}
 
 ### Key Components of User Documentation
 
